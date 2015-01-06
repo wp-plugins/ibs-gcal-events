@@ -167,7 +167,7 @@ class IBS_GCAL_EVENTS {
 
     static function field_apiKey() {
         $value = self::$options['apiKey'];
-        echo '<input name = "ibs_gcal_events_options[apiKey]" type = "text" size = "100" value = "' . $value . '" placeholder = "optional Google API Key"/><a href = "https://developers.google.com/api-client-library/python/guide/aaa_apikeys" target = "_blank" title = "Google Developer Guide">help</a>';
+        echo '<input name = "ibs_gcal_events_options[apiKey]" type = "text" size = "100" value = "' . $value . '" placeholder = "Optional Google API Key"/><a href = "https://developers.google.com/api-client-library/python/guide/aaa_apikeys" target = "_blank" title = "Google Developer Guide">help</a>';
     }
 
     static function field_qtip_classes() {

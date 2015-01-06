@@ -14,7 +14,7 @@ Displays list of a public Google Calendar's events.
 
 == Description ==
 * IBS GCal Events displays a Google Calendar's events as a shortcode [ibs-gcal-events] with default or shortcode supplied options. 
-* Widget to Google Calendar events
+* Widget to display Google Calendar events
 * See more at https://indianbendsolutions.net/documentation/ (to be developed)
 
 
