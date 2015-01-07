@@ -18,7 +18,7 @@ class IBS_WGCal_Events extends WP_Widget {
             'title' => 'IBS GCAL Events',
             'calendar' => '',
             'start' => 'now',
-            'max' => '20',
+            'max' => '20'
         );
 
         $instance = wp_parse_args((array) $instance, $widget_defaults);
