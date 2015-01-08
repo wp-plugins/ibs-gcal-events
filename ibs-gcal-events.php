@@ -4,7 +4,7 @@
   Plugin URI: http://wordpress.org/extend/plugins/
   Description: Lists Google Calendar V3 Events plugin
   Author: HMoore71
-  Version: 0.1
+  Version: 1.0
   Author URI: http://indianbendsolutions.net
   License: GPL2
   License URI: none
@@ -16,7 +16,7 @@
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-define('IBS_GCAL_EVENTS_VERSION', '0.1');
+define('IBS_GCAL_EVENTS_VERSION', '1.0');
 register_activation_hook(__FILE__, 'ibs_gcal_events_defaults');
 
 function ibs_gcal_events_defaults() {

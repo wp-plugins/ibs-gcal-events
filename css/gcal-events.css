@@ -15,4 +15,8 @@
 }
 .gcal-events div{
     padding-left:15px;
+   
+}
+.gcal-widget-div{
+    white-space:nowrap;
 }

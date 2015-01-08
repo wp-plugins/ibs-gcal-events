@@ -123,7 +123,7 @@ function IBS_GCAL_EVENTS($, args, mode) {
                                 for (var i = 0; i < events.length; i++) {
                                     var qtp = list.qtip_params(events[i]);
                                     $(event_table)
-                                            .append($('<div>').qtip(qtp)
+                                            .append($('<div class="gcal-widget-div">').qtip(qtp)
                                                     .append($('<a>').attr({href: events[i].url, target:'_blank'}).text(events[i].title).css('padding', '3px')));
                                 }
                             }
