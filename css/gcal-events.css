@@ -1,0 +1,22 @@
+.textbox{
+    background-color:inherit;
+}
+.bar{
+    margin-top:10px; 
+    font-weight:bold;
+    padding:3px;
+}
+.when-div span{
+    display:inline-block;
+    margin-right:15px;
+}
+.where-div{
+    clear:both;
+}
+.gcal-events div{
+    padding-left:15px;
+   
+}
+.gcal-widget-div{
+    white-space:nowrap;
+}
