@@ -16,7 +16,7 @@ function IBS_GCAL_EVENTS($, args, mode) {
         var list = this;
         this.options = {
             calendar: 'en.usa#holiday@group.v.calendar.google.com', //Google public holidays feed
-            apiKey: 'AIzaSyDU0aiNYlY1sRHPuZadvnfAkIRMhEFobP4', // see href="https://developers.google.com/api-client-library/python/guide/aaa_apikeys
+            apiKey: 'AIzaSyBwcmfwl7W1aMyo9wnXwmASRfZ0sOhGhRc', // see href="https://developers.google.com/api-client-library/python/guide/aaa_apikeys
             dateFormat: 'ddd MMM DD',
             timeFormat: 'h:mm a',
             errorMsg: 'No events in calendar',

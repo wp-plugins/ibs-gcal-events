@@ -4,7 +4,7 @@
   Plugin URI: http://wordpress.org/extend/plugins/
   Description: Lists Google Calendar V3 Events plugin
   Author: HMoore71
-  Version: 1.0
+  Version: 1.2
   Author URI: http://indianbendsolutions.net
   License: GPL2
   License URI: none
